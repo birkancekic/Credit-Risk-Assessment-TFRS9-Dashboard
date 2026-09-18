@@ -43,6 +43,6 @@ Managing Expected Credit Loss (ECL) and complying with TFRS 9 regulatory standar
 
 ## Tech Stack
 
-* **Tool:** Power BI Desktop
-* **Language & Analysis:** DAX, Data Modeling, Credit Risk Segmentation
+* **Tools & Languages:** Python (Pandas, NumPy), Power BI Desktop
+* **Analysis & Methods:** DAX, Data Modeling, Credit Risk Segmentation, TFRS 9 Underwriting Rules
 * **Design:** Corporate Financial Reporting & Visual Interaction Optimization
